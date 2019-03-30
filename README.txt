@@ -1,10 +1,5 @@
-Dette program kan kommunikere med en computer med et kamera der detektere 
-tyggegummi via en QR code.
+Dette program er skrevet til en Arduino mikrokontroller. Form√•let med koden er at f√• Arduinoen til at kommunikere med en computer der kan detektere tyggegummipakker gennem et webcam. Arduinoen styrer s√• 3 stepmotorer og f√•r en klo hen til den √∏nskede loklitet og samler tyggegummipakken op. Derefter transporteres tyggegummiet til et opsamlingssted hvor pakken kan f√•s.
 
-Koden er ment til at lÊgge ned pÂ en Arduino og kan udover at kommunikere med
-computeren ogsÂ styre 3 steppermotorer.
+Alt hardware (H-broer) og software til Arduinoen er designet, produceret og udviklet af mig. Prjektet blev udviklet som en del af min HTX uddannelse i faget Robotteknologi. Koden til Arduinoen er udviklet i Arduinos egen IDE.
 
-Implementeringen af systemet lÊrte mig meget om udvikling af hardware, samt 
-at skrive software til det udviklede hardware.
-
-Projektet er udviklet i Arduinos egen IDE, men sproget minder meget om C.
+Gennem projektet l√¶rte jeg meget om design og produktion af HW, samt en del om bitmanipulation og integreringen mellem SW og HW i et komplekst system.
