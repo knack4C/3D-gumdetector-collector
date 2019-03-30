@@ -2,4 +2,4 @@ Dette program er skrevet til en Arduino mikrokontroller. Formålet med koden er 
 
 Alt hardware (H-broer) og software til Arduinoen er designet, produceret og udviklet af mig. Prjektet blev udviklet som en del af min HTX uddannelse i faget Robotteknologi. Koden til Arduinoen er udviklet i Arduinos egen IDE.
 
-Gennem projektet lærte jeg meget om design og produktion af HW, samt en del om bitmanipulation og integreringen mellem SW og HW i et komplekst system.
+Gennem projektet lærte jeg meget om design og produktion af HW, samt en del om bitmanipulation og integreringen mellem SW og HW i et komplekst system. Designet til H-broen kan også ses i dette repository.
